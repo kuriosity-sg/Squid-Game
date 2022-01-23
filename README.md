@@ -1,5 +1,5 @@
 # Squid-Game
-...
+This tutorial explains how a "Red Light Green Light" game similar to the one in the popular Korean drama Squid Game can be built with an Arduino, some LED lights and a pressure sensor.
 
 ## Hardware Required
 - [Arduino Uno](https://www.kuriosity.sg/arduino-uno-oem/)
@@ -12,4 +12,4 @@
 - 10k Resistor
 
 ## Tutorial
-- [Arduino Tutorial: ESP32 RFID App Lock](https://www.kuriosity.sg/blog/arduino-tutorial-esp32-blynk-rfid-app-lock)
+- [Arduino Tutorial: Floorboard Smart Light System](https://www.kuriosity.sg/blog/arduino-tutorial-floorboard-smart-light-system)
